@@ -13,7 +13,7 @@ Clone repository into web directory and checkout stable branch.
 
 ```bash
 cd /path/to/web
-git clone https://github.com/Zeega/Sonic-Trace.git .
+git clone https://github.com/MAP-Productions/Sonic-Trace.git .
 git checkout stable
 ```
 
